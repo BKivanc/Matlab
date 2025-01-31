@@ -1,8 +1,5 @@
 clc;
 clear;
-%Hilal KUZU - 212201003
-%Hatice GÜNAYDIN - 212201012
-%Barkın KIVANÇ - 222201050
 % Reference Aircraft - Cessna CitationJet-M2 (CJ1)
 % Name of the Designed Aircraft: Apex-HBH0705
 format long
