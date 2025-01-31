@@ -1,5 +1,3 @@
-
-
 % Kodun çalışabilmesi için InterX fonksiyonu kullanılmaktadır
 % Stall etkisi gözetilerek
 % grafik çizdirilmiştir.
