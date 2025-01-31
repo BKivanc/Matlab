@@ -1,8 +1,7 @@
-% Hilal Kuzu - 212201003
-% Barkın Kıvanç - 222201050
 
-% İkinci kodun çalışabilmesi için InterX fonksiyonu kullanılmaktadır ve aynı
-% şekilde fonksiyon dosyası classroomda yüklüdür. Stall etkisi gözetilerek
+
+% Kodun çalışabilmesi için InterX fonksiyonu kullanılmaktadır
+% Stall etkisi gözetilerek
 % grafik çizdirilmiştir.
 clc;
 clear;
